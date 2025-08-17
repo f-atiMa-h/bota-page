@@ -1,6 +1,6 @@
 import { HiSparkles } from "react-icons/hi2";
 
-export default function page() {
+export default function Page() {
   return (
     <div className="text-gray-900">
   {/* The header */}
