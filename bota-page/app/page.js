@@ -53,7 +53,7 @@ export default function Page() {
   </main>
 
   <footer className="flex justify-center mt-6">
-    <button className="flex items-center justify-center gap-2 px-6 py-3 bg-teal-600 text-white rounded-lg hover:bg-teal-700 transition duration-300 ease-in-out">
+    <button className="flex items-center justify-center gap-2 px-6 py-3 bg-teal-600 text-white rounded-lg hover:bg-teal-700 transition duration-300">
       <HiSparkles className="h-5 w-5 text-white" />
       Get Leads
     </button>
